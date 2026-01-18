@@ -13,5 +13,3 @@ Welcome to my blog! I write daily about my adventures and thoughts.
 {% if site.posts.size == 0 %}
 *No posts yet. Check back soon!*
 {% endif %}
-
-[← Back to home]({{ site.baseurl }}/)

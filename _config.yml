@@ -1,4 +1,8 @@
-title: Your Name
-description: Minimal site on GitHub Pages
-theme: jekyll-theme-minimal
+title: Calvin
+description: professional mountain climber
+theme: minima
 baseurl: "/about-me"
+
+header_pages:
+  - index.md
+  - blog/index.md
