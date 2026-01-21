@@ -21,8 +21,8 @@
 title: calvin's home
 email: calvintkusnadi@gmail.com
 description: this website is just for fun, don't take me too seriously :P
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/about-me" # the subpath of your site, e.g. /blog
+url: "https://ccccalvin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social links
 linkedin_username: ccccalvin
