@@ -14,5 +14,5 @@ layout: page
 - ocassionally play maimai
 
 *calvin's goals*:
-- maintain healthy sleep schedule.
+- glorify God (Jesus Christ) with my life.
 - climb [K2](https://en.wikipedia.org/wiki/K2) someday.
